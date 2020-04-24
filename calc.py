@@ -6,8 +6,8 @@ Created on Mon Feb 24 15:07:52 2020
 """
 
 def add(x,y):
-    pass
-
+    return x + y
+    
 def subtract(x,y):
     return x-y
 
