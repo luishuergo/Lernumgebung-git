@@ -6,6 +6,7 @@ Created on Mon Feb 24 15:07:52 2020
 """
 
 def add(x,y):
+    #Die Funktion add addiert
     return x + y
     
 def subtract(x,y):
