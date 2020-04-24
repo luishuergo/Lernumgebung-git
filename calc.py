@@ -12,8 +12,9 @@ def subtract(x,y):
     return x-y
 
 def multiply(x,y):
-    #Die Funtkion multiply multiplizert
+    #Die Funktion multiply multiplizert
     return x*y
 
 def divide(x,y):
+    #Die Funtktion divide dividiert
     return x/y
