@@ -7,7 +7,11 @@ Created on Mon Feb 24 15:07:52 2020
 
 def add(x,y):
     #Die Funktion add addiert
-    return x + y
+    #hier werde ich ein paar Änderungen vornehmen
+    
+    xplusy = x + y
+    
+    return xplusy
     
 def subtract(x,y):
     #Die Funktion subtract subtrahiert
