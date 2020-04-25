@@ -18,5 +18,10 @@ def multiply(x,y):
     return x*y
 
 def divide(x,y):
-    #Die Funtktion divide dividiert
-    return x/y
+    #Die Funktion divide dividiert,falls y ungleich Null
+    if y != 0:
+		div = x/y
+	else:
+		div = 0
+	
+    return div
