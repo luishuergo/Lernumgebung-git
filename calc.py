@@ -7,17 +7,13 @@ Created on Mon Feb 24 15:07:52 2020
 
 def add(x,y):
     #Die Funktion add addiert
-<<<<<<< Updated upstream
     #hier werde ich ein paar Änderungen vornehmen
     #Zusätzlicher Kommentar
     
     xplusy = x + y
     
     return xplusy
-=======
     
-    
->>>>>>> Stashed changes
     
 def subtract(x,y):
     #Die Funktion subtract subtrahiert
