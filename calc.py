@@ -28,3 +28,7 @@ def divide(x,y):
 		div = 0
 	
     return div
+
+def wurzel(x):
+    #Die Funktion wurzel wurzeliert
+    return x**(1/2)
